@@ -22,7 +22,7 @@ provider "onefuse" {
 
 // Data Source for Naming Policy - lookup Policy ID by Policy Name
 data "onefuse_naming_policy" "naming_policy" {
-  name = var.test_param2  // Replace with Policy Name
+  name = var.test_param3  // Replace with Policy Name
 }
 
 // Resource for Naming
