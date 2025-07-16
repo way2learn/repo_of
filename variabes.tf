@@ -10,7 +10,7 @@ variable "onefuse_address" {
   default = "10.133.121.9"
 }
 
-variable "test_param3" {
+variable "test_param2" {
   type = string
 }
 
